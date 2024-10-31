@@ -1,0 +1,6 @@
+# file này dùng để khi đẩy code lên github thì sẽ ignore file đó đi 
+# vd: 
+# node_modules
+
+node_modules
+.env
